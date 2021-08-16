@@ -5,6 +5,7 @@
         - npm install @material-ui/core
         - npm install @material-ui/icons
     React Router https://reactrouter.com/
+    react-hook-form
 
 
 
