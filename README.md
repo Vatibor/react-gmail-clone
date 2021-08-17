@@ -7,6 +7,12 @@
     React Router https://reactrouter.com/
     react-hook-form
 
+## deploy the project with firebase
+    1. firebase login
+    2. firebase init
+    3. npm run build
+    4. firebase deploy
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
